@@ -1,0 +1,14 @@
+.heading__first-letter {
+  color: red;
+  }
+.heading__subtitle {
+  color: white;
+  background: green;
+  }
+  .heading__navigation-pan {
+  background: #C0C0C0;
+  }
+.article__aside-bar-right {
+  margin-left: 350px;
+  background: grey;
+}
